@@ -1,6 +1,6 @@
 {
   "name": "conventional-commits",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A sample demonstration of using commitizen and other tooling to generate changelogs and versioning",
   "main": "index.js",
   "scripts": {
